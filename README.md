@@ -17,8 +17,8 @@ Analyze the provided dataset for two Cruise ships (Vessel 1 and 2) and develop a
 
 
 ## 📝 Case Report
-- You can access the complete Case python file here - [Python](link)
-- You can access the complete Casestudy in pdf format here - [Report](link)
+- You can access the complete Case python file here - [Python](https://github.com/monikasingh09/TUI_Cruises/blob/main/TUI.ipynb)
+- You can access the complete Casestudy in pdf format here - [Report](https://github.com/monikasingh09/TUI_Cruises/blob/main/TUI_analysis.pdf)
 
 ## Steps of Execution
 - Clone the repository - [REPOSITORY](https://github.com/monikasingh09/TUI_Cruises.git)
