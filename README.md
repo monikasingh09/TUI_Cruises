@@ -1,5 +1,5 @@
 
-# <h1 align='center'> <font color='royalblue'><font size=10>TUI Cruises - CaseStudy</font> </font></h1>
+# <h1 align='center'> <font color='red'><font size=18>TUI Cruises - CaseStudy</font> </font></h1>
 <h1 align='right'>Analysed by : <font color='green'><b> MONIKA</b></font></h2>
 
 ## Business Problem:
