@@ -8,7 +8,7 @@ Analyze the provided dataset for two Cruise ships (Vessel 1 and 2) and develop a
 
         
 ## 📃 Attached Files:
-- TUI_data.zip : This file contains following 2 files
+- task_data.zip : This file contains following 2 files
   
                   data.csv    - The dataset to be analyzed.
                   schema.pdf  - A document providing further details about the dataset.
@@ -22,8 +22,8 @@ Analyze the provided dataset for two Cruise ships (Vessel 1 and 2) and develop a
 
 ## Steps of Execution
 - Clone the repository - [REPOSITORY](https://github.com/monikasingh09/TUI_Cruises.git)
-- Unzip the file TUI_data.zip
-- Update the filepath in TUI.ipynb to "file_location/TUI_data/TUI_data.csv"
+- Unzip the file task_data.zip
+- Update the filepath in TUI.ipynb to "file_location/task_data/TUI_data.csv"
 - Now you can run the file TUI.ipynb
 
 
