@@ -8,7 +8,8 @@ Analyze the provided dataset for two Cruise ships (Vessel 1 and 2) and develop a
 
         
 ## 📃 Attached Files:
-- TUI_data.zip : This file contains following 2 files -
+- TUI_data.zip : This file contains following 2 files
+  
                   data.csv    - The dataset to be analyzed.
                   schema.pdf  - A document providing further details about the dataset.
 
