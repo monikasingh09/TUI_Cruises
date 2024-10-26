@@ -22,8 +22,7 @@ Analyze the provided dataset for two Cruise ships (Vessel 1 and 2) and develop a
 
 ## Steps of Execution
 - Clone the repository - [REPOSITORY](https://github.com/monikasingh09/TUI_Cruises.git)
-- Unzip the file task_data.zip
-- Update the filepath in TUI.ipynb to "file_location/task_data/TUI_data.csv"
+- Unzip the file task_data.zip present in this repo
 - Now you can run the file TUI.ipynb
 
 
